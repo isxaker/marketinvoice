@@ -23,6 +23,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketInvoice.Types.UnitTes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketInvoice.Engine.UnitTest", "Shared\MarketInvoice.Engine.UnitTest\MarketInvoice.Engine.UnitTest.csproj", "{7FA2AE11-6EA1-4FC3-9995-80E55C1125D8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_dosc", "_dosc", "{854DC18E-23AC-4718-AE19-5C69370C2777}"
+	ProjectSection(SolutionItems) = preProject
+		_dosc\formula.jpeg = _dosc\formula.jpeg
+		_dosc\readme.txt = _dosc\readme.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
